@@ -1,10 +1,10 @@
 import React from 'react'
-import ComponentWillUnmount from './components/ComponentWillUnmount'
+import InputRef from './components/InputRef'
 
 function App() {
   return (
     <div>
-      <ComponentWillUnmount />
+      <InputRef />
     </div>
   )
 }
