@@ -1,10 +1,10 @@
 import React from 'react'
-import ComponentWillUnmount from './components/ComponentWillUnmount'
+import TimerRef from './components/TimerRef'
 
 function App() {
   return (
     <div>
-      <ComponentWillUnmount />
+      <TimerRef />
     </div>
   )
 }
